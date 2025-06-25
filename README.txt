@@ -53,10 +53,8 @@ Keine IP-Logs, keine Accounts, keine Überwachung.
 
 ## 🧱 Tech Stack
 
-- Frontend: HTML + JavaScript (Leaflet.js, minimal CSS)
-- Backend: Node.js / Flask (oder statisch via IPFS)
-- Keine Datenbankpflicht (filebasiert möglich)
-- Optional: Federation via Matrix / Scuttlebutt / IPFS
+- Frontend: HTML
+- Backend: Django
 
 ---
 
@@ -150,10 +148,8 @@ No IP logs, no accounts, no surveillance.
 
 ## 🧱 Tech Stack
 
-- Frontend: HTML + JavaScript (Leaflet.js, minimal CSS)
-- Backend: Node.js / Flask (or static delivery via IPFS)
-- No database required (file-based possible)
-- Optional: Federation via Matrix / Scuttlebutt / IPFS
+- Frontend: HTML + JavaScript
+- Backend: Django
 
 ---
 
