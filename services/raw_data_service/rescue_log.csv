@@ -1,0 +1,51 @@
+canonical_id,gtfs_de_id,delfi_id,name,old_name,lat,lon,match_score,is_synthetic,rescue_method
+de:14713:11102::02,172399,de:14713:11102::02,"Leipzig, August-Bebel-/Kurt-Eisner-Str.",A.-Bebel-/K.-Eisner-Str.,51.321402,12.368858,82.14285714285714,False,forensic_spatial
+de:14713:11102::02,335699,de:14713:11102::02,"Leipzig, August-Bebel-/Kurt-Eisner-Str.",A.-Bebel-/K.-Eisner-Str.,51.321402,12.368858,82.14285714285714,False,forensic_spatial
+de:14713:15823::01,501034,de:14713:15823::01,"Leipzig, August-Bebel-/Richard-Lehmann-Str.",A.-Bebel-/R.-Lehmann-Str.,51.315067,12.368563,78.68852459016394,False,forensic_spatial
+de:14713:15823::02,89308,de:14713:15823::02,"Leipzig, August-Bebel-/Richard-Lehmann-Str.",A.-Bebel-/R.-Lehmann-Str.,51.315086,12.36819,78.68852459016394,False,forensic_spatial
+de:14713:11563::02,14379,de:14713:11563::02,"Leipzig, Arthur-Hoffmann-/Richard-Lehmann-Str.",A.-Hoffmann-/R.-Lehmann-Str.,51.314894,12.378586,70.96774193548387,False,forensic_spatial
+de:14713:11563::05,248491,de:14713:11563::05,"Leipzig, Arthur-Hoffmann-/Richard-Lehmann-Str.",A.-Hoffmann-/R.-Lehmann-Str.,51.314767,12.377783,70.96774193548387,False,forensic_spatial
+de:14713:11563::01,584747,de:14713:11563::01,"Leipzig, Arthur-Hoffmann-/Richard-Lehmann-Str.",A.-Hoffmann-/R.-Lehmann-Str.,51.314912,12.378002,70.96774193548387,False,forensic_spatial
+de:14713:11563::04,677752,de:14713:11563::04,"Leipzig, Arthur-Hoffmann-/Richard-Lehmann-Str.",A.-Hoffmann-/R.-Lehmann-Str.,51.315116,12.378302,70.96774193548387,False,forensic_spatial
+de:16055:155083::15508300,97634,de:16055:155083::15508300,"Weimar, Albert-Kuntz-Straße / Th. Int. School",A.-Kuntz-Str./Th. Int. School,50.96329,11.340175,80.0,False,forensic_spatial
+de:03403:13105:1:1,251729,de:03403:13105:1:1,Oldenburg(Oldb) Adalbert-Stifter-Straße,A.-Stifter-Str.,53.125363,8.200096,61.904761904761905,False,forensic_spatial
+de:03403:13105:1:2,450182,de:03403:13105:1:2,Oldenburg(Oldb) Adalbert-Stifter-Straße,A.-Stifter-Str.,53.125626,8.200075,61.904761904761905,False,forensic_spatial
+de:09661:99048,176826,de:09661:99048,"AB-Damm, Glattbacher Str.","AB-Damm, Glattbacher Str.",49.982988,9.148141,100.0,False,forensic_spatial
+de:09661:99048,411422,de:09661:99048,"AB-Damm, Glattbacher Str.","AB-Damm, Glattbacher Str.",49.982988,9.148141,100.0,False,forensic_spatial
+de:09661:99048,652917,de:09661:99048,"AB-Damm, Glattbacher Str.","AB-Damm, Glattbacher Str.",49.982988,9.148141,100.0,False,forensic_spatial
+de:09661:99049,267809,de:09661:99049,"AB-Damm, Schillerstr.","AB-Damm, Schillerstr.",49.985531,9.14879,100.0,False,forensic_spatial
+de:09661:99049,131422,de:09661:99049,"AB-Damm, Schillerstr.","AB-Damm, Schillerstr.",49.985531,9.14879,100.0,False,forensic_spatial
+de:09661:99049,484396,de:09661:99049,"AB-Damm, Schillerstr.","AB-Damm, Schillerstr.",49.985531,9.14879,100.0,False,forensic_spatial
+de:09661:60531:0:1_G,654196,de:09661:60531:0:1_G,"AB-Gailbach, Klingertweg","AB-Gailbach, Klingertweg",49.948161,9.202917,100.0,False,forensic_spatial
+de:09661:60533:0:2_G,141656,de:09661:60533:0:2_G,"AB-Gailbach, Scheidgraben","AB-Gailbach, Scheidgraben",49.952288,9.19732,100.0,False,forensic_spatial
+de:09661:50106:0:2,363862,de:09661:50106:0:2,"AB-Leider, Schönbusch","AB-Leider, Schönbusch",49.966579,9.108845,100.0,False,forensic_spatial
+de:09661:99076,448618,de:09661:99076,"AB-Nilkheim, E.-Stein-Str.,Aschaffenburg","AB-Nilkheim, Edith-Stein-Str.",49.965256,9.11865,71.1864406779661,False,forensic_spatial
+de:09661:99076,571916,de:09661:99076,"AB-Nilkheim, E.-Stein-Str.,Aschaffenburg","AB-Nilkheim, Edith-Stein-Str.",49.965256,9.11865,71.1864406779661,False,forensic_spatial
+de:09661:99062,29591,de:09661:99062,"AB-Nilkheim, Ges.-Scholl-Platz,Aschaffenburg","AB-Nilkheim, Geschwister-Scholl-Platz",49.964164,9.123316,69.56521739130434,False,forensic_spatial
+de:09661:99062,601141,de:09661:99062,"AB-Nilkheim, Ges.-Scholl-Platz,Aschaffenburg","AB-Nilkheim, Geschwister-Scholl-Platz",49.964164,9.123316,69.56521739130434,False,forensic_spatial
+de:09661:50502:0:1_G,508169,de:09661:50502:0:1_G,"AB-Nilkheim, West","AB-Nilkheim, Nilkheim West",49.949057,9.106545,77.77777777777777,False,forensic_spatial
+de:09661:50502:0:2,540738,de:09661:50502:0:2,"AB-Nilkheim, West","AB-Nilkheim, Nilkheim West",49.949282,9.107066,77.77777777777777,False,forensic_spatial
+de:09661:99027,368464,de:09661:99027,"AB-Obernau, Industriestr.,Aschaffenburg","AB-Obernau, Industriegebiet",49.92344,9.157761,68.9655172413793,False,forensic_spatial
+de:09661:99036,537743,de:09661:99036,"AB-Schweinheim, A. d. Bornwiesen","AB-Schweinheim, An den Bornwiesen",49.958364,9.166864,94.33962264150944,False,forensic_spatial
+de:09661:60616,596516,de:09661:60616,"AB-Schweinheim, Lindestr.","AB-Schweinheim, Lindestr.",49.96335,9.150199,100.0,False,forensic_spatial
+de:09661:99068,70226,de:09661:99068,"AB-Schweinheim, Vogelsbergstr.","AB-Schweinheim, Vogelsbergstr.",49.962033,9.152968,100.0,False,forensic_spatial
+de:09661:99068,134922,de:09661:99068,"AB-Schweinheim, Vogelsbergstr.","AB-Schweinheim, Vogelsbergstr.",49.962033,9.152968,100.0,False,forensic_spatial
+de:16077:12584::01,254494,de:16077:12584::01,"Altenburg (Thür.), Albert-Levy-Str.","ABG, A-Levy-Straße 01",51.002286,12.429992,66.66666666666666,False,forensic_spatial
+de:16077:12584::06,591832,de:16077:12584::06,"Altenburg (Thür.), Albert-Levy-Str.","ABG, A-Levy-Straße 06",51.002342,12.43046,66.66666666666666,False,forensic_spatial
+de:16077:12538::01,534645,de:16077:12538::01,"Altenburg (Thür.), Am Festplatz","ABG, Am Festplatz 01",50.976793,12.435134,77.77777777777777,False,forensic_spatial
+de:16077:12538::06,271393,de:16077:12538::06,"Altenburg (Thür.), Am Festplatz","ABG, Am Festplatz 06",50.975633,12.434756,77.77777777777777,False,forensic_spatial
+de:16077:12464::06,252174,de:16077:12464::06,"Altenburg (Thür.), Am Steinweg","ABG, Am Steinweg 06",50.986728,12.427204,76.47058823529412,False,forensic_spatial
+de:16077:12468::01,107013,de:16077:12468::01,"Altenburg (Thür.), Anger","ABG, Anger 01",50.983268,12.426925,66.66666666666666,False,forensic_spatial
+de:16077:12468::06,173368,de:16077:12468::06,"Altenburg (Thür.), Anger","ABG, Anger 06",50.982926,12.42693,66.66666666666666,False,forensic_spatial
+000000380103,50376,000000380103,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 01",50.996993,12.441711,71.42857142857143,False,forensic_spatial
+de:16077:12511::04,53584,de:16077:12511::04,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 02",50.997057,12.441684,71.42857142857143,False,forensic_spatial
+de:16077:12511::04,105778,de:16077:12511::04,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 03",50.997057,12.441684,71.42857142857143,False,forensic_spatial
+de:16077:12511::04,628391,de:16077:12511::04,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 04",50.997057,12.441684,71.42857142857143,False,forensic_spatial
+de:16077:12511::04,42813,de:16077:12511::04,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 05",50.997057,12.441684,71.42857142857143,False,forensic_spatial
+de:16077:12511::04,569799,de:16077:12511::04,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 06",50.997057,12.441684,71.42857142857143,False,forensic_spatial
+de:16077:12511::07_G,453853,de:16077:12511::07_G,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 07",50.997064,12.442026,71.42857142857143,False,forensic_spatial
+de:16077:12511::08,121052,de:16077:12511::08,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 08",50.996608,12.442977,71.42857142857143,False,forensic_spatial
+de:16077:12511::09,156073,de:16077:12511::09,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 09",50.997,12.442785,71.42857142857143,False,forensic_spatial
+de:16077:12511::10,344026,de:16077:12511::10,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 10",50.996896,12.442976,71.42857142857143,False,forensic_spatial
+de:16077:12511::08,152350,de:16077:12511::08,"Altenburg (Thür.), Bahnhof (Bus)","ABG, Bahnhof 11",50.996608,12.442977,71.42857142857143,False,forensic_spatial
+de:16077:10822::01,145908,de:16077:10822::01,"Altenburg (Thür.), Bartholomäikirche","ABG, Bartholomäikir 01",50.986379,12.434648,74.4186046511628,False,forensic_spatial

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+psycopg2-binary
+geoalchemy2
+httpx
+gtfs-kit
+protobuf
+pandas
+python-dotenv
+apscheduler
